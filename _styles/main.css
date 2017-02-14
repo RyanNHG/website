@@ -486,7 +486,7 @@ footer ul li a:focus {
 .row.docs h3,
 .row.docs h4 {
     margin-bottom: 16px;
-    margin-top: 32px;
+    padding-top: 32px;
     text-align: left;
 }
 
