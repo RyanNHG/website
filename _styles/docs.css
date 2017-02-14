@@ -159,7 +159,7 @@ p + p {
 
 p + h1,
 pre + h1 {
-    margin-top: 128px;
+    padding-top: 116px;
 }
 
 nav {
